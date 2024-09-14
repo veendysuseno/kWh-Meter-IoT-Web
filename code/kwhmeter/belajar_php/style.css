@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-size: 100px;
+}
+
+p{
+    color: white;
+}
+
+a:link, a:visited{
+    color: white;
+    padding: 20px;
+    background-color: aqua;
+}
+a:hover{
+    color: white;
+    padding: 20px;
+    background-color: rgb(1, 106, 106);
+}
+
+button{
+    background-color: bisque;
+    padding: 15px;
+}
+
+button:hover{
+    background-color: rgb(128, 106, 79);
+    padding: 15px;
+}
+
+table,th,td{
+    border: 1px solid #ffffff;
+    border-collapse: collapse;
+    padding: 10px;
+    color: white;
+}
+
+.tombol{
+    text-align: center;
+}
+
+.bg-orange {
+    background-color: #ff6600;
+    width: 100%;
+    padding: 25px;
+    color: white;
+    font-size: 25px;
+    box-sizing: border-box;
+}
